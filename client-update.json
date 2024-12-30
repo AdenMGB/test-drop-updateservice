@@ -1,1 +1,4 @@
-test
+{
+  "version": "0.1.2",
+  "download_url": "https://github.com/Drop-OSS/drop-app/releases/download/v0.1.0-beta/Drop.Desktop.Client_0.1.0_x64-setup.exe"
+}
